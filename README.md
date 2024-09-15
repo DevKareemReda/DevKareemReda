@@ -4,7 +4,8 @@
 <h1 align="center">Hi, I'm Kareem 👋</h1>
 </p>
 <br />
- <p align="center">⚡️ I’m a Front End Developer with a strong foundation in HTML, CSS, and JavaScript. My enthusiasm for creating engaging, user-centric web applications drives me to continuously learn and adapt to the latest technologies.
+ <p align="center">⚡️ I’m a Front End Developer with a strong HTML, CSS, and JavaScript foundation.
+My enthusiasm for creating engaging, user-centric web applications drives me to learn and adapt to the latest technologies continuously
 <br > <br >
 ⚡️If you want to convert your Figma, XD, or PSD design to HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS
   You are in the right place. </p>
