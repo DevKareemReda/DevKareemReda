@@ -4,6 +4,7 @@
 <h1 align="center">Hi, I'm Kareem 👋</h1>
 </p>
 <br />
+ <div width="400">
  <p align="center">⚡️ I’m a Front End Developer with a strong HTML, CSS, and JavaScript foundation.
 My enthusiasm for creating engaging, user-centric web applications drives me to learn and adapt to the latest technologies continuously
 <br > <br >
@@ -14,7 +15,7 @@ My enthusiasm for creating engaging, user-centric web applications drives me to 
 
 - 🔭 I'm a Front end Developer
 - 💬 Ask me about **Front-End**
-
+</div>
   ***
 
 **Languages and Tools:**
